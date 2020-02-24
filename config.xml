@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "3869015"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Al-Mazra'a Dairy Farm</name>
+
+  <description>
+      Al-Mazra'a Dairy Farm, Vattamkulam, Natural Milk from cows fed the natural way
+  </description>
+
+  <author href="https://iqsoft.co.in" email="info@iqsoft.co.in">
+      Mohamed Iqbal Pallipurath
+  </author>
+  <platform name="android" />
+
+</widget>
